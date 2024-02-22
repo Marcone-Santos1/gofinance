@@ -5,6 +5,18 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+      "backgroundColor": "#F0F2F5",
+      "resizaMode": "contain"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0121ef44-ae93-4137-8b0e-d76c6501b5ba"
+      }
+    }
   }
 }
